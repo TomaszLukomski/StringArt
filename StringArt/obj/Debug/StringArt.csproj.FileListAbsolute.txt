@@ -1,0 +1,10 @@
+C:\Users\Tommy Lee Jones\source\repos\StringArt\StringArt\bin\Debug\StringArt.exe.config
+C:\Users\Tommy Lee Jones\source\repos\StringArt\StringArt\bin\Debug\StringArt.exe
+C:\Users\Tommy Lee Jones\source\repos\StringArt\StringArt\bin\Debug\StringArt.pdb
+C:\Users\Tommy Lee Jones\source\repos\StringArt\StringArt\obj\Debug\StringArt.csprojAssemblyReference.cache
+C:\Users\Tommy Lee Jones\source\repos\StringArt\StringArt\obj\Debug\StringArt.Form1.resources
+C:\Users\Tommy Lee Jones\source\repos\StringArt\StringArt\obj\Debug\StringArt.Properties.Resources.resources
+C:\Users\Tommy Lee Jones\source\repos\StringArt\StringArt\obj\Debug\StringArt.csproj.GenerateResource.cache
+C:\Users\Tommy Lee Jones\source\repos\StringArt\StringArt\obj\Debug\StringArt.csproj.CoreCompileInputs.cache
+C:\Users\Tommy Lee Jones\source\repos\StringArt\StringArt\obj\Debug\StringArt.exe
+C:\Users\Tommy Lee Jones\source\repos\StringArt\StringArt\obj\Debug\StringArt.pdb

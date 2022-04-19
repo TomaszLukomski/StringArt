@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringArt", "StringArt\StringArt.csproj", "{9D72E03E-0825-420E-9C6C-35991135854F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D72E03E-0825-420E-9C6C-35991135854F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D72E03E-0825-420E-9C6C-35991135854F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D72E03E-0825-420E-9C6C-35991135854F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D72E03E-0825-420E-9C6C-35991135854F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3E93FEB-C3B8-4394-88F6-B7B1EA5F465B}
+	EndGlobalSection
+EndGlobal
